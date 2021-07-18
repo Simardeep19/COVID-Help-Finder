@@ -11,6 +11,19 @@
 <b>Reistration Forms for Patient and Care-giver</b>
 
 <div>
-<img src="images/patient_reg.png" alt="landing" width="700px" length="500px"/>
-<img src="images/caregiver_reg.png" alt="landing" width="700px" length="500px"/>
+<img src="images/patient_reg.png" alt="patient" width="700px" length="500px"/>
+<img src="images/caregiver_reg.png" alt="caregiver" width="700px" length="500px"/>
 </div>
+
+<b>List of Care-Givers for Patients</b>
+
+<div>
+<img src="images/caregiver_list.png" alt="caregiver list" width="700px" length="500px"/>
+</div>
+
+<b>Registration Success page for Care-givers</b>
+
+<div>
+<img src="images/conformation_page.png" alt="conformation" width="700px" length="500px"/>
+</div>
+
