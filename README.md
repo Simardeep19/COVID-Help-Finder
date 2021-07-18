@@ -24,6 +24,6 @@
 <b>Registration Success page for Care-givers</b>
 
 <div>
-<img src="images/conformation_page.png" alt="conformation" width="700px" length="500px"/>
+<img src="images/confirmation_page.png" alt="confirmation" width="700px" length="500px"/>
 </div>
 
